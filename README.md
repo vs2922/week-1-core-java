@@ -1,1 +1,1 @@
-# week-1---core-java
+# week-1 core-java
